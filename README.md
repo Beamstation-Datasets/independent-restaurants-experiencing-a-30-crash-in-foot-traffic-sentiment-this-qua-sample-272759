@@ -11,7 +11,7 @@
 | Category | Food and Drink |
 | Full dataset size | 93 records |
 | Free sample size | 9 records (9.68%) |
-| Last export | 2026-04-09T19:33:35.939752+00:00 |
+| Last export | 2026-04-16T23:01:19.337343+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-272759/releases/download/sample-latest/beamstation_272759_food_and_drink-us-mt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
